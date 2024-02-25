@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CellUserOptions>
+  <Controller Name="Controller1">
+    <Application>Disk://PRO1/PRO1.pjx</Application>
+    <Application>Disk://PixyStaubli/PixyStaubli.pjx</Application>
+    <Application>Disk://Ex3_Pep/Ex3_Pep.pjx</Application>
+    <Application>Disk://newProject1/newProject1.pjx</Application>
+    <Application>Disk://Seleccio_peces/Seleccio_peces.pjx</Application>
+  </Controller>
+  <Option Name="DataTreeView">
+    <Nodes>
+      <Node Path="Activitat 1 Jose Granados" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx\dio" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx\mdesc" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx\pointRx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx\tool" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx\trsf" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##Seleccio_peces#Seleccio_peces.pjx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##Seleccio_peces#Seleccio_peces.pjx\dio" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="CellExplorer">
+    <Nodes>
+      <Node Path="Activitat 1 Jose Granados" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##Ex3_Pep#Ex3_Pep.pjx\Moviments_robot" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##Ex3_Pep#Ex3_Pep.pjx\start" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##newProject1#newProject1.pjx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PixyStaubli#PixyStaubli.pjx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##PRO1#PRO1.pjx\start" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##Seleccio_peces#Seleccio_peces.pjx" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\Disk:##Seleccio_peces#Seleccio_peces.pjx\start" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="GeometryView">
+    <Nodes>
+      <Node Path="Activitat 1 Jose Granados" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\PRO1" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\PRO1\flange[0]" IsExpanded="true" />
+      <Node Path="Activitat 1 Jose Granados\Controller1\PRO1\flange[0]\tPinza" IsExpanded="true" />
+    </Nodes>
+  </Option>
+  <Option Name="Breakpoints">
+    <Breakpoints />
+  </Option>
+  <Option Name="IOsControlPanel">
+    <Ios />
+  </Option>
+  <Option Name="Watches">
+    <Watches />
+  </Option>
+  <Option Name="ExpressionWatches">
+    <ExpressionWatches>
+      <ExpressionWatch></ExpressionWatch>
+    </ExpressionWatches>
+  </Option>
+  <Option Name="3DView">
+    <_3DView Visible="false" />
+  </Option>
+  <Option Name="SynchronizerMode">
+    <Synchronizers>
+      <Synchronizer Controller="Controller1" Mode="Emulator" />
+    </Synchronizers>
+  </Option>
+  <Option Name="Safety">
+    <Safeties />
+  </Option>
+</CellUserOptions>
